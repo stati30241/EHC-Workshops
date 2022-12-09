@@ -4,7 +4,7 @@ def main():
     do_quiz("Who is the best person ever? ", "sahib")
 
 def do_quiz(question, answer):
-    # We have attempts from 1 to 3
+    # We have attempts from 3 to 1
     for attempt in range(3, 0, -1):
         inp = input(question)
         if inp == answer:
