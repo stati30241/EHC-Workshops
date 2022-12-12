@@ -67,19 +67,23 @@ We have build a quiz more or less. You have an ability to add questions to a pre
 Learn the Print Statement, if Statement, and the idea of the variable. If you feel up for it, learn about nested ifs.
 
 https://www.w3schools.com/python/ref_func_print.asp
+
 https://www.w3schools.com/python/gloss_python_if_statement.asp
+
 https://www.w3schools.com/python/python_variables.asp
+
 https://www.w3schools.com/python/gloss_python_if_nested.asp
 
 
 ### Part 5
 **hack**
-Use w3schools to decipher the code inside the do_quiz function. Come up with a concept for something you want to make within the limitations of the technology and build it. You might say I have no idea what to make, and to that I say its just a part of the challenge. Higher and Lower Game, Buzzfeed quiz, choose your own adventure story game. All of these are options with just the quiz function, print statements and if states. As our motto is: Learn, Code, Hack. By now you have leanred, you have programmed, and now its time to hack. Make something into something it wasn't meant to be.
+Use w3schools to decipher the code inside the do_quiz function. Come up with a concept for something you want to make within the limitations of the technology and build it. You might say I have no idea what to make, and to that I say its just a part of the challenge. Higher and Lower Game, Buzzfeed quiz, choose your own adventure story game. All of these are options with just the quiz function, print statements and if statementss. As our motto is: Learn, Code, Hack. By now you have learned, you have programmed, and now its time to hack. Make something into something it wasn't meant to be.
 
 Good luck, I hope our live runthrough and future video makes this more comprehensible, and enjoy our gratitude.
 
 Sincerely, EHC-TEAM.
 https://replit.com/@KyleLiao/TiredImpeccableOperation#main.py
+
 `
 score = 0
 
@@ -99,7 +103,6 @@ def do_quiz(question, answer):
 
 
 do_quiz("What is 5+5 ", "10")
-
 `
 Final Sample Code
 
