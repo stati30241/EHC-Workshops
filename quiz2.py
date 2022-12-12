@@ -1,6 +1,4 @@
 score = 0
-def main():
-  do_quiz("What is 5+5 ", "10")
 
 def do_quiz(question, answer):
   # We have attempts from 3 to 1
@@ -17,4 +15,4 @@ def do_quiz(question, answer):
   print("You couldn't figure it out")
 
 
-main()
+do_quiz("What is 5+5 ", "10")
