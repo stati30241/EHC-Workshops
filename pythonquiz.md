@@ -3,6 +3,9 @@
 ## What is Python?
 Python is a high-level programming language used. It's often used by beginners because it has a human readable syntax structure.
 
+### Video Guide
+[Video](https://www.youtube.com/watch?v=mRMmlo_Uqcs&ab_channel=NetworkChuck)
+
 ## Why should you learn it?
 It's a solid choice for a first programming language. Its versatility makes it useful for a lot of different technologies, and even though it's not the best at one specific thing, python brings you a wide range of practical capabilities. Program scripts, or bots, or automations, or server side software, or games. The only place it could be considered lacking is in the frontend web universe.
 
